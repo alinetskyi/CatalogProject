@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Catalog/ViewController.swift"
+            timestampString = "547244475.938337"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Catalog.ViewController.AddBtn.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSButton&gt;"
+                  moduleName = "Catalog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uzver/Desktop/Catalog/Catalog/ViewController.swift"
+                  timestampString = "547051796.3741339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Catalog.ViewController.AddBtn.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSButton&gt;"
+                  moduleName = "Catalog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uzver/Desktop/Catalog/Catalog/ViewController.swift"
+                  timestampString = "547051796.377575"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Catalog.ViewController.init(nibName: Swift.Optional&lt;__ObjC.NSNib.Name&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Catalog.ViewController"
+                  moduleName = "Catalog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uzver/Desktop/Catalog/Catalog/ViewController.swift"
+                  timestampString = "547051796.3804899"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Catalog.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Catalog.ViewController&gt;"
+                  moduleName = "Catalog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uzver/Desktop/Catalog/Catalog/ViewController.swift"
+                  timestampString = "547051796.38325"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Catalog/ViewController.swift"
+            timestampString = "547244475.938926"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Catalog.ViewController.AddBtn.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSButton&gt;"
+                  moduleName = "Catalog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uzver/Desktop/Catalog/Catalog/ViewController.swift"
+                  timestampString = "547052352.272815"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Catalog.ViewController.AddBtn.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSButton&gt;"
+                  moduleName = "Catalog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uzver/Desktop/Catalog/Catalog/ViewController.swift"
+                  timestampString = "547052352.27685"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Catalog.ViewController.init(nibName: Swift.Optional&lt;__ObjC.NSNib.Name&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Catalog.ViewController"
+                  moduleName = "Catalog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uzver/Desktop/Catalog/Catalog/ViewController.swift"
+                  timestampString = "547052352.280035"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Catalog.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Catalog.ViewController&gt;"
+                  moduleName = "Catalog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uzver/Desktop/Catalog/Catalog/ViewController.swift"
+                  timestampString = "547052352.283374"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Catalog/NewMovieController.swift"
+            timestampString = "547244475.939122"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "AddMovie(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Catalog/ViewController.swift"
+            timestampString = "547244475.93945"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
