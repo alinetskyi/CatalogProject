@@ -51,7 +51,7 @@ class EditMovieController: NSViewController {
     
    
     @IBAction func btnUpdate(_ sender: AnyObject) {
-        let dict = ["Name": updateName.stringValue, "Director": updateDirector.stringValue, "Description": updateDescription.stringValue, "Image": self.selectedFile,"Release date": self.updatedReleaseDate] as [String : Any]
+        let dict = ["Name": updateName.stringValue, "Director": updateDirector.stringValue, "Description": updateDescription.stringValue, "Image": self.selectedFile,"Release date": self.updatedReleaseDate.intValue] as [String : Any]
         
         DataModel.sharedInstance.updateRecord(
             DataModel.sharedInstance.optionalIndexPath!.item, withData: dict as AnyObject)
